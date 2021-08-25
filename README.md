@@ -8,6 +8,9 @@ A very basic demo website created using <a href="https://github.com/nuxt/nuxt.js
 - Adding custom Vue plugins
 - Mutations and getters
 
+Special thanks to <a href="https://github.com/harblaith7">harblaith7</a> for his 
+<a href="https://www.youtube.com/watch?v=Wdmi4k7sFzU" target="_blank">tutorial</a>.
+
 # Build Setup
 ```bash
 # install dependencies
@@ -16,6 +19,3 @@ $ npm install
 # serve with hot reload at localhost:3000
 $ npm run dev
 ```
-
-Special thanks to <a href="https://github.com/harblaith7">harblaith7</a> for his 
-<a href="https://www.youtube.com/watch?v=Wdmi4k7sFzU" target="_blank">tutorial</a>.
