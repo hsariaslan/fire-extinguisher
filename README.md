@@ -1,5 +1,12 @@
 # Fire Extinguisher
-A very basic website created using <a href="https://github.com/nuxt/nuxt.js" target="_blank">nuxt.js</a> and <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">tailwindcss</a>.
+A very basic website created using <a href="https://github.com/nuxt/nuxt.js" target="_blank">nuxt.js</a> and <a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">tailwindcss</a>. It contains some basic features of nuxt.js, such as;
+- Components
+- Routing
+- Vuex state
+- Layouts
+- Fetching data from API
+- Adding custom Vue plugins
+- Mutations and getters
 
 # Build Setup
 ```bash
