@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "fonts.css";
+
+@layer components {
+  .header-links {
+    @apply h-16 flex items-center px-5 cursor-pointer transition duration-150
+  }
+  .header-links:hover {
+    @apply bg-white text-trueGray-800
+  }
+}
